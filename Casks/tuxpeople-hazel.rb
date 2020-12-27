@@ -1,4 +1,4 @@
-cask "hazel" do
+cask "tuxpeople-hazel" do
   version "4.4.5"
   sha256 "19f0a193831b8d61b8b3a5e87ab08e5295e4e7680d13615ed5b14b34f60c3cef"
 
