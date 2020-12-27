@@ -1,6 +1,6 @@
 cask "tuxpeople-font-bs" do
   version "1.00"
-  sha256 "e2732c00e3535083be36fe3e0fb6414a5529fd44c391bf7c9648cf7662125671"
+  sha256 "906cd086da516e0db5b320b156614436b4417e7d364a8cf76cef054e511339d6"
 
   url "https://cloud.eighty-three.me/s/xkFx6NkHZrGixNW/download"
   name "Bahnschrift"
